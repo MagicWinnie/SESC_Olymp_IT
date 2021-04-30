@@ -13,7 +13,7 @@ You must have at least 70 points to get credit
 |  [7](7.cpp) |   86   | 1 |
 |  [8](8.cpp) |   100  | 1 |
 |  [9](9.cpp) |   100  | 1 |
-| [10](10-1.cpp) |    0   | 0 |
+| [10](10.cpp) |    80   | 1 |
 | [11](11.cpp) |   60   | 0 |
 | [12](12.cpp) |   30   | 0 |
 
