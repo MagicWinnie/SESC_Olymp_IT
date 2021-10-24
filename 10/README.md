@@ -1,7 +1,7 @@
 # SESC_Olymp_IT
 
 [Tasks](Problems.pdf)  
-You must have at least 70 points to get credit
+You must have at least 70 points to pass
 |      №       | Points | Credit |
 | :----------: | :----: | :----: |
 |  [1](1.cpp)  |   76   |   1    |
